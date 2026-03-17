@@ -15,10 +15,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
-    "@tanstack/react-devtools": "latest",
     "@tanstack/react-router": "latest",
-    "@tanstack/react-router-devtools": "latest",
-    "@tanstack/react-router-ssr-query": "latest",
     "@tanstack/react-start": "latest",
     "@tanstack/router-plugin": "^1.132.0",
     "react": "^19.2.0",
@@ -27,7 +24,6 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",
-    "@tanstack/devtools-vite": "latest",
     "@types/node": "^22.10.2",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",

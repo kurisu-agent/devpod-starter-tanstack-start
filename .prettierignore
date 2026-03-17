@@ -2,3 +2,4 @@ dist
 .vinxi
 .output
 node_modules
+src/routeTree.gen.ts
