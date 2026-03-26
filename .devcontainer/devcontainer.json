@@ -2,6 +2,7 @@
   "name": "TanStack Start Starter",
   "image": "mcr.microsoft.com/devcontainers/typescript-node:22",
   "forwardPorts": [3000],
+  "onCreateCommand": "bash scripts/scaffold.sh",
   "postCreateCommand": "npm install",
   "customizations": {
     "vscode": {
